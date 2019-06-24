@@ -1,0 +1,6 @@
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\bin\Debug\KofaxAssignment.exe.config
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\bin\Debug\KofaxAssignment.exe
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\bin\Debug\KofaxAssignment.pdb
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\obj\Debug\KofaxAssignment.exe
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\obj\Debug\KofaxAssignment.pdb
+C:\Users\Maitrayee\Documents\Visual Studio 2015\Projects\KofaxAssignment\KofaxAssignment\obj\Debug\KofaxAssignment.csprojResolveAssemblyReference.cache
